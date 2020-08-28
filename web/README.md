@@ -1,12 +1,11 @@
-
 # Setup and installation
 
-Looking to self-host?
-=====================
+# Looking to self-host?
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Deploy your own instance using Heroku
+
 Create a Heroku account if you haven't, then grab the RequestBin source using git:
 
 `$ git clone git://github.com/mxcxvn/freighttrust.net.git`
@@ -28,7 +27,6 @@ Now just deploy via git:
 `$ git push heroku master`
 
 It will push to Heroku and give you a URL that your own private RequestBin will be running.
-
 
 ## Deploy your own instance using Docker
 
