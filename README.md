@@ -1,40 +1,22 @@
-# freighttrust.net - The requestbin next generation
+# RequestbinV2
 
-## Information
+> data exfiltration via HTTP && DNS
 
-**Project:** freighttrust.net
-
-**Demo:** http://freighttrust.net
-
-**Author:** mxcxvn@gmail.com
-
-**Repository:** https://github.com/mxcxvn/freighttrust.net
-
-**Blog:** https://blog.fosec.vn/dns-data-exfiltration-what-is-this-and-how-to-use-2f6c69998822
-
-## Release notes
-
-**Release date:** 30 Mar 2018
-
-**Current verion:** 1.0
-
-**Features:**
+## Overview
 
 1. Supporting HTTP requests inspection
 2. Supporting DNS resolution requests inspection
 
-## Installation
+## v2 Changes
 
-Read more at:
+`ennode` over `dns`  i.e. posting ennode relays via DNS protocol 
 
-https://github.com/mxcxvn/freighttrust.net/tree/master/dnsserver#readme
+## Setup
 
-https://github.com/mxcxvn/freighttrust.net/tree/master/web#readme
+`<install instructions>`
 
 ## References:
-
-This project is based on 2 projects:
-
+Source Linegage:
+https://github.com/mxcxvn/requestbin
 https://github.com/Runscope/requestbin
-
 https://github.com/HoLyVieR/dnsbin
