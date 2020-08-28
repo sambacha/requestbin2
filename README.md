@@ -1,13 +1,13 @@
-# requestbin.net - The requestbin next generation
+# freighttrust.net - The requestbin next generation
 
 ## Information
-**Project:** requestbin.net
+**Project:** freighttrust.net
 
-**Demo:** http://requestbin.net
+**Demo:** http://freighttrust.net
 
 **Author:** mxcxvn@gmail.com
 
-**Repository:** https://github.com/mxcxvn/requestbin.net
+**Repository:** https://github.com/mxcxvn/freighttrust.net
 
 **Blog:** https://blog.fosec.vn/dns-data-exfiltration-what-is-this-and-how-to-use-2f6c69998822
 
@@ -24,9 +24,9 @@
 ## Installation
 Read more at:
 
-https://github.com/mxcxvn/requestbin.net/tree/master/dnsserver#readme
+https://github.com/mxcxvn/freighttrust.net/tree/master/dnsserver#readme
 
-https://github.com/mxcxvn/requestbin.net/tree/master/web#readme
+https://github.com/mxcxvn/freighttrust.net/tree/master/web#readme
 
 ## References:
 This project is based on 2 projects:

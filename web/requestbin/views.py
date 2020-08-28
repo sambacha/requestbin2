@@ -50,7 +50,7 @@ def bin(name):
             resp = make_response("ip:" + request.headers['Cf-Connecting-Ip'] + "\n")
         else:
             resp = make_response("ip:" + request.remote_addr + "\n")
-        resp.headers['Sponsored-By'] = "http://requestbin.net"
+        resp.headers['Sponsored-By'] = "http://freighttrust.net"
         return resp
 
 

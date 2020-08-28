@@ -1,8 +1,8 @@
 // The domain name on which you have configured your DNS setup.
-var targetDomain     = "requestbin.net";
+var targetDomain     = "freighttrust.net";
 
 // Websocket URI that the client will use to connect
-var websocketUrl     = "ws://dns.requestbin.net:8080/dnsbin";
+var websocketUrl     = "ws://dns.freighttrust.net:8080/dnsbin";
 
 // Subdomain used for the service.
 var prefixes         = { 

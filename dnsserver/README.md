@@ -7,7 +7,7 @@ This project is based on https://github.com/HoLyVieR/dnsbin
 
 ## Demo
 
-http://requestbin.net/dns
+http://freighttrust.net/dns
 
 ## Setup and installation
 
@@ -15,10 +15,10 @@ http://requestbin.net/dns
 
 The current DNS setup that I have for the demo server is the following one. Do note that I did this with trial and error, so the setup may be overcomplicated or may have issues. If you are more knowledgeable feel free to open an issue. 
 
- - Add a "A" record for the domain "ns1.requestbin.net" that points to "<an IP>".
- - Add a "A" record for the domain "ns2.requestbin.net" that points to "<an IP>".
- - Add a "NS" record for the domain "d.requestbin.net" with the value "ns1.requestbin.net".
- - Add a "NS" record for the domain "d.requestbin.net" with the value "ns2.requestbin.net". 
+ - Add a "A" record for the domain "ns1.freighttrust.net" that points to "<an IP>".
+ - Add a "A" record for the domain "ns2.freighttrust.net" that points to "<an IP>".
+ - Add a "NS" record for the domain "d.freighttrust.net" with the value "ns1.freighttrust.net".
+ - Add a "NS" record for the domain "d.freighttrust.net" with the value "ns2.freighttrust.net". 
 
 ### Web Hosting
 
