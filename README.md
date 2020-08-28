@@ -2,6 +2,10 @@
 
 > data exfiltration via HTTP && DNS
 
+## Distribution
+
+🔗 https://www.npmjs.com/package/dnsbin-ennode
+
 ## Overview
 
 1. Supporting HTTP requests inspection
