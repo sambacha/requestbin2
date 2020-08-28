@@ -1,5 +1,5 @@
 {
-  "name": "dnsbin",
+  "name": "dnsbin-ennode",
   "version": "1.0.0",
   "description": "The request.bin of DNS request",
   "main": "index.js",
@@ -14,15 +14,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/mxcxvn/freighttrust.net.git"
+    "url": "git+ssh://git@github.com/sambacha/dnsbinv2.git"
   },
   "keywords": [
-    "dns"
+    "dns",
+    "ennode"
   ],
-  "author": "Olivier Arteau",
+  "author": "SEE LICENSE",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mxcxvn/freighttrust.net/issues"
+    "url": "https://github.com/sambacha/dnsbinv2/issues"
   },
-  "homepage": "https://github.com/mxcxvn/freighttrust.net#readme"
+  "homepage": "https://github.com/sambacha/dnsbinv2#readme"
 }
